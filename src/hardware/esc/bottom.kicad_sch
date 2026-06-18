@@ -2586,6 +2586,12 @@
 		(uuid "423ae7e1-30ec-46f7-a1fc-3a5b0180b88f")
 	)
 	(junction
+		(at 200.66 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48df234f-e232-4899-9cf4-6c046b72ce5e")
+	)
+	(junction
 		(at 50.8 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2638,6 +2644,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a25d441-b684-46aa-ae7c-b4442e5f5391")
+	)
+	(junction
+		(at 200.66 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97f19c3f-a4cc-4dca-b973-44ef51d72341")
 	)
 	(junction
 		(at 27.94 78.74)
@@ -2866,6 +2878,16 @@
 			(type default)
 		)
 		(uuid "0c668891-b03f-4fa2-bb6b-f7300b066929")
+	)
+	(wire
+		(pts
+			(xy 267.97 22.86) (xy 261.62 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "118f83ee-fb57-49e9-9e79-0ff648e693f6")
 	)
 	(wire
 		(pts
@@ -4367,6 +4389,16 @@
 		)
 		(uuid "9789ed8c-094b-4e18-a074-7f79bae736f6")
 	)
+	(label "9v"
+		(at 267.97 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a4a1df13-a3bc-4195-98b0-a680a9730152")
+	)
 	(label "C_HIGH3"
 		(at 215.9 36.83 90)
 		(effects
@@ -4814,6 +4846,17 @@
 			(justify left)
 		)
 		(uuid "788eb09f-9a7b-4d6e-a324-b10bd926e193")
+	)
+	(hierarchical_label "9v"
+		(shape bidirectional)
+		(at 261.62 22.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "803ba9fe-39a2-4c58-85e9-7a0443cef87d")
 	)
 	(hierarchical_label "GLA3"
 		(shape output)
@@ -12374,6 +12417,99 @@
 			(project "esc"
 				(path "/7abcc5dd-3ad1-4c74-aa5d-e1502c746dfd/4ab5f7bf-96fa-4a0d-bad3-d50222998c4e"
 					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 200.66 100.33 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f923a463-d991-403d-9d2f-a02a1e3f8a00")
+		(property "Reference" "C72"
+			(at 196.85 99.0599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10u"
+			(at 196.85 101.5999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 199.6948 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 200.66 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 200.66 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "86f86b67-23f8-4f44-8743-327e93ee46ea")
+		)
+		(pin "1"
+			(uuid "b0919731-9192-4ebe-864c-c915e014199e")
+		)
+		(instances
+			(project "esc"
+				(path "/7abcc5dd-3ad1-4c74-aa5d-e1502c746dfd/4ab5f7bf-96fa-4a0d-bad3-d50222998c4e"
+					(reference "C72")
 					(unit 1)
 				)
 			)

@@ -3549,6 +3549,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 22.86) (xy 223.52 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b70378b4-90a7-483b-b494-ace1e7993be8")
+	)
+	(wire
+		(pts
 			(xy 149.86 21.59) (xy 153.67 21.59)
 		)
 		(stroke
@@ -4036,6 +4046,16 @@
 			(justify left bottom)
 		)
 		(uuid "43f5d9cb-ad41-41e0-977a-4a8510b53427")
+	)
+	(label "9v"
+		(at 229.87 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "46a6eae6-3254-4768-9cce-b75757e13318")
 	)
 	(label "C_HIGH1"
 		(at 68.58 50.8 0)
@@ -4754,6 +4774,17 @@
 			(justify left)
 		)
 		(uuid "7f0ef2fd-91e8-4467-aa76-f956401e0c02")
+	)
+	(hierarchical_label "9v"
+		(shape bidirectional)
+		(at 223.52 22.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "81eb4b3c-3fae-427a-8d5b-cc01bc98ba9a")
 	)
 	(hierarchical_label "GHB2"
 		(shape output)
