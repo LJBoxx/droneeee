@@ -18,6 +18,8 @@ Thhe flight controller is quite simple and only has support for the essential to
 
 Additionally, there are also some betaflight rgb headers and buzzer. Since it is an rp2350 with PIO, it should be easy to repurpose the i2c port for something else. The pinout is also similar to the madflight fc3 but not exactly the same, in /src/firmware/betaflight/picoflight/config.h you will find the exact files needed to build a firmware along precompiled binary 
 
+At first i wanted to make an esc to work with Alice's flight controller but in the end, i started changing some parts like power converters, removing analog parts and tried to overall optimize the design. In the end it wasnt the same anymore. I also wanted to experiment with the rp2350 as no flight controller exist yet with it. One more thing was trying to make even more compact designs than before, high density layout is fun but also a pain lol.. 
+
 ## Renders :
 ![alt text](image-1.png) ![alt text](image.png)
 
