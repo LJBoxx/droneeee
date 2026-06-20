@@ -21,3 +21,11 @@ Additionally, there are also some betaflight rgb headers and buzzer. Since it is
 ## Renders :
 ![alt text](image-1.png) ![alt text](image.png)
 
+# BOM 
+| Name     | Qty     | Price  | Link   | Note |
+| -------- | ------- | ------ | ------ | ----- |
+| Components | 1     | 110usd  | /src/bom_export_fc.xls |
+| PCB      | 3x5pcs  | 5usd/ea | https://jlcpcb.com/ | order each board design individually to have discounts !|
+| total         |         | 125usd |  |shipping included
+
+# ZINEE !!
