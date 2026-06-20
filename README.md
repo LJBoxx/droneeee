@@ -23,6 +23,11 @@ At first i wanted to make an esc to work with Alice's flight controller but in t
 ## Renders :
 ![alt text](image-1.png) ![alt text](image.png)
 
+## Schematics 
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+
 # BOM 
 | Name     | Qty     | Price  | Link   | Note |
 | -------- | ------- | ------ | ------ | ----- |
@@ -32,3 +37,6 @@ At first i wanted to make an esc to work with Alice's flight controller but in t
 
 # ZINEE !!
 ![alt text](image-2.png)
+
+# Build 
+(to be done after i assemble it myself but basically soldering)
