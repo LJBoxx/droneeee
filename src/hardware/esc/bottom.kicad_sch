@@ -5503,6 +5503,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C445596"
+			(at 99.06 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5b83b16d-da6f-4bb3-b6f4-4988d6274127")
 		)
@@ -5585,7 +5596,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C962136"
 			(at 187.96 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -5754,6 +5765,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C445596"
+			(at 107.95 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fe58c460-31c5-4ea4-ab97-d1e72ecf82cc")
 		)
@@ -5848,6 +5870,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 254 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C917006"
 			(at 254 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -5962,6 +5995,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C917006"
+			(at 266.7 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b7ca9d95-59a0-4059-85fc-c5d1137d0058")
 		)
@@ -6032,6 +6076,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 26.67 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C190095"
+			(at 26.67 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6487,6 +6542,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C917006"
+			(at 265.43 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a57547ac-c09b-4a13-be1e-aed843e8808f")
 		)
@@ -6829,6 +6895,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C445596"
+			(at 50.8 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b9279a86-0269-4d9f-9731-adb017a500f9")
 		)
@@ -7065,6 +7142,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C445596"
+			(at 30.48 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "43abff1c-9186-4271-8aa7-283df6803d0e")
 		)
@@ -7213,6 +7301,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 154.94 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C445596"
+			(at 154.94 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7371,6 +7470,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 154.94 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "x"
 			(at 154.94 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -7551,6 +7661,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C190095"
+			(at 74.93 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0f577ec5-463d-42ff-ba5d-728d5dc7bc77")
 		)
@@ -7655,6 +7776,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C917006"
+			(at 240.03 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "068dbd4f-bf21-4f05-9052-78b1a630d744")
 		)
@@ -7725,6 +7857,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 50.8 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C445596"
+			(at 50.8 124.46 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7809,6 +7952,17 @@
 		)
 		(property "Description" "Quad current sense amplifier, Rail-to-Rail, 26V, Gain 20 V/V, TSSOP-14"
 			(at 41.91 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2873353"
+			(at 39.37 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8167,6 +8321,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C190095"
+			(at 158.75 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dacdd54a-de7f-4eda-9ff1-e002bdbef27b")
 		)
@@ -8237,6 +8402,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 110.49 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C190095"
+			(at 110.49 36.83 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8418,6 +8594,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C445596"
+			(at 106.68 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0877c7f5-fcc0-4df9-a276-7b903617a48b")
 		)
@@ -8566,6 +8753,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 154.94 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C190095"
+			(at 154.94 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8737,6 +8935,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 134.62 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C190095"
+			(at 134.62 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9091,7 +9300,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C13585"
+		(property "LCSC" "C3039694"
 			(at 17.78 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -9181,6 +9390,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C190095"
+			(at 54.61 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "821ac3e6-8724-4402-8f25-79f3879204b0")
 		)
@@ -9251,6 +9471,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 33.02 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C190095"
+			(at 33.02 34.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9698,6 +9929,17 @@
 				)
 			)
 		)
+		(property "LCSC" "x"
+			(at 77.47 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "46e4c231-6ec1-46d8-bd50-3cf2ec99e552")
 		)
@@ -9863,6 +10105,17 @@
 		)
 		(property "Description" "Quad current sense amplifier, Rail-to-Rail, 26V, Gain 20 V/V, TSSOP-14"
 			(at 140.97 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2873353"
+			(at 138.43 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10146,7 +10399,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C13585"
+		(property "LCSC" "C3039694"
 			(at 96.52 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -10236,6 +10489,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C445596"
+			(at 74.93 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "462385e0-2d88-4cd3-af5d-c78d3082fb66")
 		)
@@ -10306,6 +10570,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 106.68 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C190095"
+			(at 106.68 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10394,6 +10669,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C445596"
+			(at 26.67 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bde8fad3-8a6a-4fbd-af94-32b716270095")
 		)
@@ -10473,6 +10759,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C445596"
+			(at 130.81 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7c78fa50-86e5-415c-af04-133bbeabb19d")
 		)
@@ -10543,6 +10840,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 78.74 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C190095"
+			(at 78.74 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11169,6 +11477,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C917006"
+			(at 252.73 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a39730a9-a40b-4790-aa7c-67a56be0c93f")
 		)
@@ -11591,6 +11910,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C190095"
+			(at 130.81 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a2a8c9b1-3dc2-4969-856e-f85712a97561")
 		)
@@ -11666,6 +11996,17 @@
 		)
 		(property "Description" "Quad current sense amplifier, Rail-to-Rail, 26V, Gain 20 V/V, TSSOP-14"
 			(at 90.17 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2873353"
+			(at 87.63 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11950,7 +12291,7 @@
 				)
 			)
 		)
-		(property "LCSC" " "
+		(property "LCSC" "C962136"
 			(at 189.23 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -12031,6 +12372,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 30.48 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C190095"
+			(at 30.48 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12407,6 +12759,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C917006"
+			(at 241.3 26.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b922a975-90a3-43cd-847f-f7d9943a4293")
 		)
@@ -12489,7 +12852,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C962136"
 			(at 200.66 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12659,6 +13022,17 @@
 				)
 			)
 		)
+		(property "LCSC" "x"
+			(at 77.47 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c664d074-f500-41d9-8fa4-240340327e76")
 		)
@@ -12727,6 +13101,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 154.94 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "x"
 			(at 154.94 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -12813,6 +13198,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C190095"
+			(at 50.8 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "52dacfe2-60a0-433b-9bf3-346c25ab17a2")
 		)
@@ -12883,6 +13279,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 110.49 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C190095"
+			(at 110.49 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
