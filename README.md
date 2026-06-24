@@ -21,13 +21,13 @@ Additionally, there are also some betaflight rgb headers and buzzer. Since it is
 At first i wanted to make an esc to work with Alice's flight controller but in the end, i started changing some parts like power converters, removing analog parts and tried to overall optimize the design. In the end it wasnt the same anymore. I also wanted to experiment with the rp2350 as no flight controller exist yet with it. One more thing was trying to make even more compact designs than before, high density layout is fun but also a pain lol.. 
 
 ## Renders :
-![alt text](image-1.png) ![alt text](image.png)
+![alt text](./img/image-1.png) ![alt text](./img/image.png)
 
 ## Schematics 
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
+![alt text](./img/image-3.png)
+![alt text](./img/image-4.png)
+![alt text](./img/image-7.png)
+![alt text](./img/image-8.png)
 
 # BOM 
 | Name     | Qty     | Price  | Link   | Note |
@@ -37,7 +37,7 @@ At first i wanted to make an esc to work with Alice's flight controller but in t
 | total         |         | 125usd |  |shipping included
 
 # ZINEE !!
-![alt text](image-2.png)
+![alt text](./img/image-2.png)
 
 # Build 
 (to be done after i assemble it myself but basically soldering)
