@@ -1,65 +1,68 @@
-﻿;Mrf#;Product Link;Unit Price(USD);Quantity;Ext.Price(USD);Description;;;;;;;;;;;;
-1;CL05B104KO5NNNC;https://www.lcsc.com/product-detail/C1525.html;0.0031;49;0.31;100nF ±10% 16V Ceramic Capacitor X7R 0402;;;;;;;;;;;;
-2;TCC0402X6S475M6R3AT;https://www.lcsc.com/product-detail/C50767367.html;0.0101;4;0.51;4.7uF X6S ±20% 6.3V 0402 Ceramic Capacitors RoHS;;;;;;;;;;;;
-3;CL05B103KB5NNNC;https://www.lcsc.com/product-detail/C15195.html;0.0025;4;0.25;10nF ±10% 50V Ceramic Capacitor X7R 0402;;;;;;;;;;;;
-4;CC0402DRNPO9BN150;https://www.lcsc.com/product-detail/C526978.html;0.0015;2;0.15;15pF 50V Ceramic Capacitor NP0 0402;;;;;;;;;;;;
-5;CL10A106KO8NQNC;https://www.lcsc.com/product-detail/C962136.html;0.0433;5;0.43;10uF ±10% 16V Ceramic Capacitor X5R 0603;;;;;;;;;;;;
-6;CC0805KKX7R9BB105;https://www.lcsc.com/product-detail/C91185.html;0.0455;4;2.28;1uF ±10% 50V Ceramic Capacitor X7R 0805;;;;;;;;;;;;
-7;CL05A474KA5NNNC;https://www.lcsc.com/product-detail/C92361.html;0.0163;1;0.16;470nF ±10% 25V Ceramic Capacitor X5R 0402;;;;;;;;;;;;
-8;CL21A226MAYNNNE;https://www.lcsc.com/product-detail/C602037.html;0.1138;4;1.14;22uF ±20% 25V Ceramic Capacitor X5R 0805;;;;;;;;;;;;
-9;CL05A225MQ5NSNC;https://www.lcsc.com/product-detail/C12530.html;0.0078;3;0.78;2.2uF ±20% 6.3V Ceramic Capacitor X5R 0402;;;;;;;;;;;;
-10;GRM155B31E105KA12D;https://www.lcsc.com/product-detail/C913556.html;0.0085;5;0.43;1uF ±10% 25V Ceramic Capacitor 0402;;;;;;;;;;;;
-11;CL10A105KB8NNNC;https://www.lcsc.com/product-detail/C15849.html;0.0130;16;0.65;1uF ±10% 50V Ceramic Capacitor X5R 0603;;;;;;;;;;;;
-12;CC0805KKX7R9BB105;https://www.lcsc.com/product-detail/C91185.html;0.0455;2;2.28;1uF ±10% 50V Ceramic Capacitor X7R 0805;;;;;;;;;;;;
-13;CL32B106KBJNNNE;https://www.lcsc.com/product-detail/C138687.html;0.2901;2;0.58;10uF ±10% 50V Ceramic Capacitor X7R 1210;;;;;;;;;;;;
-14;CL10A225KB8NNNC;https://www.lcsc.com/product-detail/C913904.html;0.0400;1;0.40;2.2uF ±10% 50V Ceramic Capacitor X5R 0603;;;;;;;;;;;;
-15;GRM21BR61E106MA73L;https://www.lcsc.com/product-detail/C391262.html;0.0326;23;1.30;10uF ±20% 25V Ceramic Capacitor X5R 0805;;;;;;;;;;;;
-16;CC0402DRNPO9BN5R1;https://www.lcsc.com/product-detail/C541354.html;0.0016;1;0.16;5.1pF 50V Ceramic Capacitor NP0 0402;;;;;;;;;;;;
-17;KT-0805G;https://www.lcsc.com/product-detail/C2297.html;0.0163;1;0.82;Emerald Green 525nm LED Indication - Discrete 2.6V~3.1V 0805;;;;;;;;;;;;
-18;F.0603.00026/P2-0603B1TS2-06T-001;https://www.lcsc.com/product-detail/C7496819.html;0.0044;1;0.44;Blue 462nm LED Indication - Discrete 2.5V~2.9V 0603;;;;;;;;;;;;
-19;KT-0603R;https://www.lcsc.com/product-detail/C2286.html;0.0073;1;0.73;Red 645nm LED Indication - Discrete 2.4V 0603;;;;;;;;;;;;
-20;KT-0805Y;https://www.lcsc.com/product-detail/C2296.html;0.0123;1;0.62;Yellow 596nm LED Indication - Discrete 1.8V~2.4V 0805;;;;;;;;;;;;
-21;1SS404;https://www.lcsc.com/product-detail/C2100.html;0.0360;1;0.72;Diode 20V 300mA Surface Mount SOD-323;;;;;;;;;;;;
-22;SS210;https://www.lcsc.com/product-detail/C14996.html;0.0291;1;1.46;Diode 100V 2A Surface Mount SMA(DO-214AC);;;;;;;;;;;;
-23;SMAJ30A;https://www.lcsc.com/product-detail/C10767.html;0.0699;1;0.70;48.4VC Clamp 8.3A@10/1000us Ipp TVS DIODE DO-214AC(SMA);;;;;;;;;;;;
-24;SM08B-SRSS-TB(LF)(SN);https://www.lcsc.com/product-detail/C160407.html;0.3186;2;1.59;Connector Header 8 position 1mm Pitch 1A Surface Mount, Right Angle -25℃~+85℃;;;;;;;;;;;;
-25;472192001;https://www.lcsc.com/product-detail/C164170.html;0.7566;1;0.76;Micro SD card (TF card) Connector and Ejector Hinged Lid Surface Mount;;;;;;;;;;;;
-26;HX PZ1.0-2x5P ZZ;https://www.lcsc.com/product-detail/C22438182.html;0.0789;6;0.79;Pin Header 10 Position 1mm Pitch Dual Row Through Hole -40℃~+105℃;;;;;;;;;;;;
-27;GPCA101-0502A001C1AA;https://www.lcsc.com/product-detail/C5138889.html;0.1754;8;1.75;Pin Header 5 Position 1mm Pitch Single Row Through Hole -40℃~+105℃;;;;;;;;;;;;
-28;FC-ALX 5050D-150MT;https://www.lcsc.com/product-detail/C5370912.html;0.8411;1;0.84;5.5A 15uH ±20% 6.5A 45mΩ Molded Inductor SMD,5.1x5.3mm Fixed Inductors RoHS;;;;;;;;;;;;
-29;CYN5040-22UH;https://www.lcsc.com/product-detail/C2879700.html;0.1140;2;0.57;1.4A 22uH ±20% 129mΩ 1.8A SMD,5x5mm Fixed Inductors RoHS;;;;;;;;;;;;
-30;AOTA-B201610S3R3-101-T;https://www.lcsc.com/product-detail/C42411119.html;0.2838;1;1.42;2.1A 3.3uH 115mΩ 2.4A Molded Inductor 0806 Fixed Inductors RoHS;;;;;;;;;;;;
-31;AO3400A;https://www.lcsc.com/product-detail/C20917.html;0.0846;1;0.42;N-Channel 30V Surface Mount SOT-23-3L;;;;;;;;;;;;
-32;MMBT3904TT1G;https://www.lcsc.com/product-detail/C242260.html;0.0264;1;0.53;Bipolar (BJT) Transistor NPN 40V 200mA 300MHz 200mW Surface Mount SOT-416;;;;;;;;;;;;
-33;RT0402BRD0710KL;https://www.lcsc.com/product-detail/C190095.html;0.0207;42;1.04;62.5mW 10kΩ 50V Thin Film Resistor ±25ppm/℃ ±0.1% 0402 Chip Resistor - Surface Mount RoHS;;;;;;;;;;;;
-34;ERA2AEB104X;https://www.lcsc.com/product-detail/C445619.html;0.0701;7;0.70;100kΩ ±0.1% 63mW 0402 Thin Film Resistor AEC-Q200;;;;;;;;;;;;
-35;RT0402BRD0724K9L;https://www.lcsc.com/product-detail/C852664.html;0.0274;2;0.55;24.9kΩ 63mW 50V Thin Film Resistor ±25ppm/℃ ±0.1% 0402 Chip Resistor - Surface Mount RoHS;;;;;;;;;;;;
-36;ERJPA2J330X;https://www.lcsc.com/product-detail/C427200.html;0.0257;1;0.51;33Ω ±5% 250mW 0402 Thick Film Resistor AEC-Q200;;;;;;;;;;;;
-37;FRC0402F1053TS;https://www.lcsc.com/product-detail/C2933067.html;0.0015;1;0.15;105kΩ ±1% 62.5mW 0402 Thick Film Resistor;;;;;;;;;;;;
-38;RK73H1ET3652F-CN;https://www.lcsc.com/product-detail/C42396638.html;0.0014;1;0.14;62.5mW 36.5kΩ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount RoHS;;;;;;;;;;;;
-39;ERA2AEB1242X;https://www.lcsc.com/product-detail/C490814.html;0.0933;1;0.47;12.4kΩ ±0.1% 63mW 0402 Thin Film Resistor AEC-Q200;;;;;;;;;;;;
-40;ERA2AEB102X;https://www.lcsc.com/product-detail/C445596.html;0.1037;25;2.59;1kΩ ±0.1% 63mW 0402 Thin Film Resistor AEC-Q200;;;;;;;;;;;;
-41;PMR25HZPJV1L0;https://www.lcsc.com/product-detail/C4173351.html;0.6267;4;2.51;1W 1mΩ ±100ppm/℃ ±5% 1210 Chip Resistor - Surface Mount RoHS;;;;;;;;;;;;
-42;FRC0402F20R0TS;https://www.lcsc.com/product-detail/C2909334.html;0.0015;24;0.15;20Ω ±1% 62.5mW 0402 Thick Film Resistor;;;;;;;;;;;;
-43;0402WGF5101TCE;https://www.lcsc.com/product-detail/C25905.html;0.0009;2;0.09;5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor;;;;;;;;;;;;
-44;TS-1088-AR02016;https://www.lcsc.com/product-detail/C720477.html;0.0530;2;0.53;Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount;;;;;;;;;;;;
-45;STM32F051K8U6;https://www.lcsc.com/product-detail/C72339.html;1.8196;4;7.28;ARM Cortex-M0 32 Bit 48MHz 27 UFQFPN-32(5x5) Microcontrollers RoHS;;;;;;;;;;;;
-46;MP9943GQ(TOKMAS);https://www.lcsc.com/product-detail/C51889390.html;1.3803;2;2.76;Step-down type 350kHz~470kHz Adjustable 0V~24V 3A QFN-8(3x3) Voltage Regulators - DC DC Switching Regulators RoHS;;;;;;;;;;;;
-47;TLV75533PDBVR;https://www.lcsc.com/product-detail/C404027.html;0.1459;1;0.73;3.3V Positive Fixed SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS;;;;;;;;;;;;
-48;W25Q128JVPIM TR;https://www.lcsc.com/product-detail/C2441427.html;3.0088;1;3.01;FLASH - NOR Memory IC 128Mbit SPI 133MHz WSON-8-EP(5x6);;;;;;;;;;;;
-49;RP2354B;https://www.lcsc.com/product-detail/C39843328.html;1.5739;1;1.57;48 QFN-80-EP(10x10) Microcontrollers RoHS;;;;;;;;;;;;
-50;ICM-42688-P;https://www.lcsc.com/product-detail/C1850418.html;20.2811;1;20.28;High Precision 6-Axis MEMS MotionTracking Device;;;;;;;;;;;;
-51;LP5907MFX-3.3/NOPB;https://www.lcsc.com/product-detail/C80670.html;0.1369;1;0.68;Linear Voltage Regulator IC Positive Fixed 1 Output 250mA SOT-23-5;;;;;;;;;;;;
-52;LM66100DCKR;https://www.lcsc.com/product-detail/C2869734.html;0.2655;2;1.33;95mΩ 1 SC-70-6 OR Controllers, Ideal Diodes RoHS;;;;;;;;;;;;
-53;TYPE-C 16PIN 2MD(073);https://www.lcsc.com/product-detail/C2765186.html;0.0707;1;1.41;USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle;;;;;;;;;;;;
-54;FD6288Q;https://www.lcsc.com/product-detail/C328453.html;0.8639;4;3.46;Three Phase Gate Driver IC MOSFET IGBT QFN-24-EP(4x4);;;;;;;;;;;;
-55;RS60N80UHG;https://www.lcsc.com/product-detail/C51904706.html;0.1957;24;4.89;60V 80A 3.6V 78W 4.2mΩ@10V 1 N-channel PDFN-8(5x6) Single FETs, MOSFETs RoHS;;;;;;;;;;;;
-56;LDL212PV33R;https://www.lcsc.com/product-detail/C2969892.html;0.5797;1;0.58;3.3V Positive Fixed DFN-6(2x2) Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS;;;;;;;;;;;;
-57;SMBJ28A;https://www.lcsc.com/product-detail/C178227.html;0.1082;1;0.54;45.4VC Clamp 13.3A@10/1000us Ipp TVS DIODE DO-214AA;;;;;;;;;;;;
-58;INA2180A1IDSGR;https://www.lcsc.com/product-detail/C2873353.html;0.3972;2;0.79;2 25uV -200mV~26V 2V/us 350kHz 100dB 100nA 355uA 20V/V WSON-8(2x2) Instrumentation, Op Amps, Buffer Amps RoHS;;;;;;;;;;;;
-59;LM76003RNPR;https://www.lcsc.com/product-detail/C470958.html;2.2912;1;2.29;2.2MHz Step-down type Adjustable 1V~57V 3.5A WQFN-30-EP(4x6) Voltage Regulators - DC DC Switching Regulators RoHS;;;;;;;;;;;;
-60;1N4148WT;https://www.lcsc.com/product-detail/C917006.html;0.0079;12;0.40;Diode Independent 75V 150mA Surface Mount SOD-523;;;;;;;;;;;;
-61;ABM8-272-T3;https://www.lcsc.com/product-detail/C20625731.html;0.2956;1;1.48;±30ppm 10pF ±30ppm SMD3225-4P Crystals RoHS;;;;;;;;;;;;
-62;BMP280;https://www.lcsc.com/product-detail/C83291.html;6.9336;1;6.93;30Kpa~1.1bar LGA-8(2x2.5) Pressure Sensors, Transducers RoHS;;;;;;;;;;;;
-63;UHW1H102MHD;https://www.lcsc.com/product-detail/C250864.html;0.9688;1;0.97;1000uF 50V Aluminum Electrolytic Capacitors Through Hole,D12.5xL31.5mm 10000hrs@105℃;;;;;;;;;;;;
- Total;;;;;$96.78;;;;;;;;;;;;;
+﻿;Mrf#;Product Link;Unit Price(USD);Quantity;Ext.Price(USD);Description
+1;CL05B104KO5NNNC;https://www.lcsc.com/product-detail/C1525.html;0.0031;49;0.31;100nF ±10% 16V Ceramic Capacitor X7R 0402
+2;TCC0402X6S475M6R3AT;https://www.lcsc.com/product-detail/C50767367.html;0.0101;4;0.51;4.7uF X6S ±20% 6.3V 0402 Ceramic Capacitors RoHS
+3;CL05B103KB5NNNC;https://www.lcsc.com/product-detail/C15195.html;0.0025;4;0.25;10nF ±10% 50V Ceramic Capacitor X7R 0402
+4;CC0402DRNPO9BN150;https://www.lcsc.com/product-detail/C526978.html;0.0015;2;0.15;15pF 50V Ceramic Capacitor NP0 0402
+5;CL10A106KO8NQNC;https://www.lcsc.com/product-detail/C962136.html;0.0433;5;0.43;10uF ±10% 16V Ceramic Capacitor X5R 0603
+6;CC0805KKX7R9BB105;https://www.lcsc.com/product-detail/C91185.html;0.0455;4;2.28;1uF ±10% 50V Ceramic Capacitor X7R 0805
+7;CL05A474KA5NNNC;https://www.lcsc.com/product-detail/C92361.html;0.0163;1;0.16;470nF ±10% 25V Ceramic Capacitor X5R 0402
+8;CL21A226MAYNNNE;https://www.lcsc.com/product-detail/C602037.html;0.1138;4;1.14;22uF ±20% 25V Ceramic Capacitor X5R 0805
+9;CL05A225MQ5NSNC;https://www.lcsc.com/product-detail/C12530.html;0.0078;3;0.78;2.2uF ±20% 6.3V Ceramic Capacitor X5R 0402
+10;GRM155B31E105KA12D;https://www.lcsc.com/product-detail/C913556.html;0.0085;5;0.43;1uF ±10% 25V Ceramic Capacitor 0402
+11;CL10A105KB8NNNC;https://www.lcsc.com/product-detail/C15849.html;0.0130;16;0.65;1uF ±10% 50V Ceramic Capacitor X5R 0603
+12;CC0805KKX7R9BB105;https://www.lcsc.com/product-detail/C91185.html;0.0455;2;2.28;1uF ±10% 50V Ceramic Capacitor X7R 0805
+13;CL32B106KBJNNNE;https://www.lcsc.com/product-detail/C138687.html;0.2901;2;0.58;10uF ±10% 50V Ceramic Capacitor X7R 1210
+14;CL10A225KB8NNNC;https://www.lcsc.com/product-detail/C913904.html;0.0400;1;0.40;2.2uF ±10% 50V Ceramic Capacitor X5R 0603
+15;GRM21BR61E106MA73L;https://www.lcsc.com/product-detail/C391262.html;0.0326;23;1.30;10uF ±20% 25V Ceramic Capacitor X5R 0805
+16;CC0402DRNPO9BN5R1;https://www.lcsc.com/product-detail/C541354.html;0.0016;1;0.16;5.1pF 50V Ceramic Capacitor NP0 0402
+17;KT-0805G;https://www.lcsc.com/product-detail/C2297.html;0.0163;1;0.82;Emerald Green 525nm LED Indication - Discrete 2.6V~3.1V 0805
+18;F.0603.00026/P2-0603B1TS2-06T-001;https://www.lcsc.com/product-detail/C7496819.html;0.0044;1;0.44;Blue 462nm LED Indication - Discrete 2.5V~2.9V 0603
+19;KT-0603R;https://www.lcsc.com/product-detail/C2286.html;0.0073;1;0.73;Red 645nm LED Indication - Discrete 2.4V 0603
+20;KT-0805Y;https://www.lcsc.com/product-detail/C2296.html;0.0123;1;0.62;Yellow 596nm LED Indication - Discrete 1.8V~2.4V 0805
+21;1SS404;https://www.lcsc.com/product-detail/C2100.html;0.0360;1;0.72;Diode 20V 300mA Surface Mount SOD-323
+22;SS210;https://www.lcsc.com/product-detail/C14996.html;0.0291;1;1.46;Diode 100V 2A Surface Mount SMA(DO-214AC)
+23;SMAJ30A;https://www.lcsc.com/product-detail/C10767.html;0.0699;1;0.70;48.4VC Clamp 8.3A@10/1000us Ipp TVS DIODE DO-214AC(SMA)
+24;SM08B-SRSS-TB(LF)(SN);https://www.lcsc.com/product-detail/C160407.html;0.3186;2;1.59;Connector Header 8 position 1mm Pitch 1A Surface Mount, Right Angle -25℃~+85℃
+25;472192001;https://www.lcsc.com/product-detail/C164170.html;0.7566;1;0.76;Micro SD card (TF card) Connector and Ejector Hinged Lid Surface Mount
+26;HX PZ1.0-2x5P ZZ;https://www.lcsc.com/product-detail/C22438182.html;0.0789;6;0.79;Pin Header 10 Position 1mm Pitch Dual Row Through Hole -40℃~+105℃
+27;GPCA101-0502A001C1AA;https://www.lcsc.com/product-detail/C5138889.html;0.1754;8;1.75;Pin Header 5 Position 1mm Pitch Single Row Through Hole -40℃~+105℃
+28;FC-ALX 5050D-150MT;https://www.lcsc.com/product-detail/C5370912.html;0.8411;1;0.84;5.5A 15uH ±20% 6.5A 45mΩ Molded Inductor SMD,5.1x5.3mm Fixed Inductors RoHS
+29;CYN5040-22UH;https://www.lcsc.com/product-detail/C2879700.html;0.1140;2;0.57;1.4A 22uH ±20% 129mΩ 1.8A SMD,5x5mm Fixed Inductors RoHS
+30;AOTA-B201610S3R3-101-T;https://www.lcsc.com/product-detail/C42411119.html;0.2838;1;1.42;2.1A 3.3uH 115mΩ 2.4A Molded Inductor 0806 Fixed Inductors RoHS
+31;AO3400A;https://www.lcsc.com/product-detail/C20917.html;0.0846;1;0.42;N-Channel 30V Surface Mount SOT-23-3L
+32;MMBT3904TT1G;https://www.lcsc.com/product-detail/C242260.html;0.0264;1;0.53;Bipolar (BJT) Transistor NPN 40V 200mA 300MHz 200mW Surface Mount SOT-416
+33;RT0402BRD0710KL;https://www.lcsc.com/product-detail/C190095.html;0.0207;42;1.04;62.5mW 10kΩ 50V Thin Film Resistor ±25ppm/℃ ±0.1% 0402 Chip Resistor - Surface Mount RoHS
+34;ERA2AEB104X;https://www.lcsc.com/product-detail/C445619.html;0.0701;7;0.70;100kΩ ±0.1% 63mW 0402 Thin Film Resistor AEC-Q200
+35;RT0402BRD0724K9L;https://www.lcsc.com/product-detail/C852664.html;0.0274;2;0.55;24.9kΩ 63mW 50V Thin Film Resistor ±25ppm/℃ ±0.1% 0402 Chip Resistor - Surface Mount RoHS
+36;ERJPA2J330X;https://www.lcsc.com/product-detail/C427200.html;0.0257;1;0.51;33Ω ±5% 250mW 0402 Thick Film Resistor AEC-Q200
+37;FRC0402F1053TS;https://www.lcsc.com/product-detail/C2933067.html;0.0015;1;0.15;105kΩ ±1% 62.5mW 0402 Thick Film Resistor
+38;RK73H1ET3652F-CN;https://www.lcsc.com/product-detail/C42396638.html;0.0014;1;0.14;62.5mW 36.5kΩ Thick Film Resistor ±1% 0402 Chip Resistor - Surface Mount RoHS
+39;ERA2AEB1242X;https://www.lcsc.com/product-detail/C490814.html;0.0933;1;0.47;12.4kΩ ±0.1% 63mW 0402 Thin Film Resistor AEC-Q200
+40;ERA2AEB102X;https://www.lcsc.com/product-detail/C445596.html;0.1037;25;2.59;1kΩ ±0.1% 63mW 0402 Thin Film Resistor AEC-Q200
+41;PMR25HZPJV1L0;https://www.lcsc.com/product-detail/C4173351.html;0.6267;4;2.51;1W 1mΩ ±100ppm/℃ ±5% 1210 Chip Resistor - Surface Mount RoHS
+42;FRC0402F20R0TS;https://www.lcsc.com/product-detail/C2909334.html;0.0015;24;0.15;20Ω ±1% 62.5mW 0402 Thick Film Resistor
+43;0402WGF5101TCE;https://www.lcsc.com/product-detail/C25905.html;0.0009;2;0.09;5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor
+44;TS-1088-AR02016;https://www.lcsc.com/product-detail/C720477.html;0.0530;2;0.53;Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount
+45;STM32F051K8U6;https://www.lcsc.com/product-detail/C72339.html;1.8196;4;7.28;ARM Cortex-M0 32 Bit 48MHz 27 UFQFPN-32(5x5) Microcontrollers RoHS
+46;MP9943GQ(TOKMAS);https://www.lcsc.com/product-detail/C51889390.html;1.3803;2;2.76;Step-down type 350kHz~470kHz Adjustable 0V~24V 3A QFN-8(3x3) Voltage Regulators - DC DC Switching Regulators RoHS
+47;TLV75533PDBVR;https://www.lcsc.com/product-detail/C404027.html;0.1459;1;0.73;3.3V Positive Fixed SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS
+48;W25Q128JVPIM TR;https://www.lcsc.com/product-detail/C2441427.html;3.0088;1;3.01;FLASH - NOR Memory IC 128Mbit SPI 133MHz WSON-8-EP(5x6)
+49;RP2354B;https://www.lcsc.com/product-detail/C39843328.html;1.5739;1;1.57;48 QFN-80-EP(10x10) Microcontrollers RoHS
+50;ICM-42688-P;https://www.lcsc.com/product-detail/C1850418.html;20.2811;1;20.28;High Precision 6-Axis MEMS MotionTracking Device
+51;LP5907MFX-3.3/NOPB;https://www.lcsc.com/product-detail/C80670.html;0.1369;1;0.68;Linear Voltage Regulator IC Positive Fixed 1 Output 250mA SOT-23-5
+52;LM66100DCKR;https://www.lcsc.com/product-detail/C2869734.html;0.2655;2;1.33;95mΩ 1 SC-70-6 OR Controllers, Ideal Diodes RoHS
+53;TYPE-C 16PIN 2MD(073);https://www.lcsc.com/product-detail/C2765186.html;0.0707;1;1.41;USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle
+54;FD6288Q;https://www.lcsc.com/product-detail/C328453.html;0.8639;4;3.46;Three Phase Gate Driver IC MOSFET IGBT QFN-24-EP(4x4)
+55;RS60N80UHG;https://www.lcsc.com/product-detail/C51904706.html;0.1957;24;4.89;60V 80A 3.6V 78W 4.2mΩ@10V 1 N-channel PDFN-8(5x6) Single FETs, MOSFETs RoHS
+56;LDL212PV33R;https://www.lcsc.com/product-detail/C2969892.html;0.5797;1;0.58;3.3V Positive Fixed DFN-6(2x2) Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS
+57;SMBJ28A;https://www.lcsc.com/product-detail/C178227.html;0.1082;1;0.54;45.4VC Clamp 13.3A@10/1000us Ipp TVS DIODE DO-214AA
+58;INA2180A1IDSGR;https://www.lcsc.com/product-detail/C2873353.html;0.3972;2;0.79;2 25uV -200mV~26V 2V/us 350kHz 100dB 100nA 355uA 20V/V WSON-8(2x2) Instrumentation, Op Amps, Buffer Amps RoHS
+59;LM76003RNPR;https://www.lcsc.com/product-detail/C470958.html;2.2912;1;2.29;2.2MHz Step-down type Adjustable 1V~57V 3.5A WQFN-30-EP(4x6) Voltage Regulators - DC DC Switching Regulators RoHS
+60;1N4148WT;https://www.lcsc.com/product-detail/C917006.html;0.0079;12;0.40;Diode Independent 75V 150mA Surface Mount SOD-523
+61;ABM8-272-T3;https://www.lcsc.com/product-detail/C20625731.html;0.2956;1;1.48;±30ppm 10pF ±30ppm SMD3225-4P Crystals RoHS
+62;BMP280;https://www.lcsc.com/product-detail/C83291.html;6.9336;1;6.93;30Kpa~1.1bar LGA-8(2x2.5) Pressure Sensors, Transducers RoHS
+63;UHW1H102MHD;https://www.lcsc.com/product-detail/C250864.html;0.9688;1;0.97;1000uF 50V Aluminum Electrolytic Capacitors Through Hole,D12.5xL31.5mm 10000hrs@105℃
+64;PCB;https://jlcpcb.com;;5;2.00;Flight controller pcb
+65;PCB;https://jlcpcb.com;;5;2.00;esc logic pcb
+66;PCB;https://jlcpcb.com;;5;2.00;esc powerstage pcb
+ Total;;;;;$102.78;
